@@ -8,15 +8,11 @@
   <description>Root project</description>
   
   <modules>
-
-<module>discovery-server</module>
-<module>api-gateway</module>
-
+<module>api-gateaway</module>
 <module>auth-service</module>
-
-<module>todo-service</module>
-
+<module>discovery-server</module>
 <module>profile-service</module>
+<module>todo-service</module>
 
 
 </modules>
